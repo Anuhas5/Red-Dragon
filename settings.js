@@ -29,7 +29,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94764706922'] // owner number
+global.vcardowner = ['+380944814219'] // owner number
 global.ownername = "😎𝙇.𝙢.𝙨.𝙖𝙣𝙪𝙝𝙖𝙨 ❯❯" // owner name
 global.ytname = "😂😂" // yt chanel name
 global.socialm = "GitHub: anuhas2007" // github or insta name
@@ -44,8 +44,8 @@ global.antibad = "false" // To remove bad word senders
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "true" // bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 
-global.owner = ['+94764706922']
-global.ownertag = '+94764706922' //your tag number
+global.owner = ['+380944814219']
+global.ownertag = '+380944814219' //your tag number
 global.botname = '𝙇.𝙈.𝙎.𝙖𝙣𝙪𝙝𝙖𝙨 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "𝙖𝙣𝙪𝙝𝙖𝙨.𝙗𝙤𝙩" // sticker packname
 global.author = "𝙇.𝙈.𝙎.𝙖𝙣𝙪𝙝𝙖𝙨" // sticker author
@@ -56,7 +56,7 @@ global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 //database
-global.premium = ['+94764706922'] //ur premium numbers
+global.premium = ['+380944814219'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
